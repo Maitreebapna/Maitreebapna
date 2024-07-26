@@ -1,4 +1,4 @@
-<h1 align="center">Hey Y'all, I'm Maitree Bapna</h1>
+<h1 align="center">Hello! , I'm Maitree Bapna</h1>
 <h3 align="center">A passionate Data Science Aspirant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreebapna&label=Profile%20views&color=0e75b6&style=flat" alt="maitreebapna" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Car Game**
+- 🔭 I’m currently working on **loan-prediction project**
 
 - 🌱 I’m currently learning **Python ,Java core, Html,Css,Javascript,php,C,MYSQL**
 
